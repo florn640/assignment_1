@@ -14,5 +14,10 @@ function draw() {
 	stroke(300, 0, 0);
 
 	// draw a circle
-	ellipse(320, 200, 135, 135);
+	ellipse(500, 200, 135, 135);
+	fill(300, 150, 235);
+  ellipse(500, 230, 50, 50);
+	ellipse(480, 180, 30, 30);
+	ellipse(520, 180, 30, 30);
+
 }
