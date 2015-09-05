@@ -1,11 +1,11 @@
 function setup() {
 	// create a place to draw
-	createCanvas(640, 360);
+	createCanvas(700, 400);
 }
 
 function draw() {
 	// clear the background
-	background(300, 150, 235);
+	background(167, 213, 242);
 
 	// set a fill color
 	fill(0, 33, 64);
