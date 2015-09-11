@@ -1,6 +1,7 @@
 function setup() {
 	// create a place to draw
-	createCanvas(700, 400);
+	createCanvas(700, 380)
+
 }
 
 function draw() {
@@ -12,6 +13,7 @@ background(167, 213, 242);
 	// set a fill color
 	fill(242, 242, 242);
 
+	
 	// draw MR SKY
 fill(246, 246, 246);
 noStroke()
