@@ -35,10 +35,13 @@ fill(0, 0, 0)
 ellipse(410, 150, 10, 10)
 ellipse(430, 150, 10, 10)
 ellipse(420, 165, 15, 15)
-//DRAW HAT
+//DRAW MR's HAT
 fill(150,102,71)
 rect(410,78,30,40)
 rect(390,115,70,10)
+fill(87,56,30)
+rect(410,105,30,10)
+
 
 	// draw CHILDREN BODIES
 	noStroke()
@@ -87,6 +90,10 @@ ellipse(178, 235, 3, 3)
 ellipse(170, 243,10, 10)
 fill(245,213,192)
 ellipse(170, 251,10, 10)
+// draw Kids HAT
+fill(255,0,12)
+rect(155,220,30,8)
+ellipse(170, 217,20, 20)
 
 //draw face 3
 fill(240, 240, 235)
@@ -97,5 +104,25 @@ ellipse(235, 265,3, 3)
 ellipse(245, 260, 3, 3)
 ellipse(247, 270,10, 10)
 fill(245,213,192)
-ellipse(249, 273,10, 10)
+ellipse(248, 271,10, 10)
+//draw hair 3
+fill(191, 141, 80)
+ellipse(225, 255, 10, 10)
+
+//sun drawing
+fill(255,194,0)
+ellipse(680, 30,200, 200)
+ellipse(680, 30,100, 100)
+fill(250,180,13)
+ellipse(680, 30,170, 170)
+fill(245,170,10)
+ellipse(680, 30,100, 100)
+fill(240,160,8)
+ellipse(680, 30,70, 70)
+
+
+
+
+
+
 }
