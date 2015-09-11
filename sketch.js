@@ -13,7 +13,7 @@ background(167, 213, 242);
 	fill(242, 242, 242);
 
 	// draw MR SKY
-fill(242, 242, 242);
+fill(246, 246, 246);
 noStroke()
 	ellipse(475, 190, 70, 70);
 	ellipse(500, 180, 50, 50);
@@ -49,9 +49,22 @@ fill(245,213,192)
 rect(150,250,40,50)
 ellipse(170, 235, 30, 30)
 rect(220,280,40,50)
+//draw hair 3
+fill(213, 142, 50)
+ellipse(235, 263, 35, 35)
+ellipse(235, 270, 20, 20)
+//kid3
+fill(245,213,192)
 ellipse(240, 265, 30, 30)
 rect(80,275,40,50)
 ellipse(100, 260, 30, 30)
+
+//kid3 braid
+fill(213, 142, 50)
+ellipse(230, 282, 10, 10)
+ellipse(230, 288, 10, 10)
+ellipse(230, 295, 8, 8)
+ellipse(230, 300, 6, 6)
 //DRAW CHILDREN HAIR
 noFill()
 stroke(45)
@@ -105,9 +118,7 @@ ellipse(245, 260, 3, 3)
 ellipse(247, 270,10, 10)
 fill(245,213,192)
 ellipse(248, 271,10, 10)
-//draw hair 3
-fill(191, 141, 80)
-ellipse(225, 255, 10, 10)
+
 
 //sun drawing
 fill(255,194,0)
