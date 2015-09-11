@@ -8,16 +8,28 @@ function draw() {
 	background(167, 213, 242);
 
 	// set a fill color
-	fill(0, 33, 64);
-
-	// set a stroke color
-	stroke(300, 0, 0);
+	fill(242, 242, 242);
 
 	// draw a circle
-	ellipse(500, 200, 135, 135);
-	fill(300, 150, 235);
-  ellipse(500, 230, 50, 50);
-	ellipse(480, 180, 30, 30);
-	ellipse(520, 180, 30, 30);
+fill(242, 242, 242);
+noStroke()
+	ellipse(475, 190, 70, 70);
+	ellipse(500, 180, 50, 50);
+	ellipse(450, 150, 50, 50)
+	ellipse(450, 180, 50, 50)
+	ellipse(470, 133, 50, 50)
+	ellipse(410, 165, 50, 50)
+	ellipse(440, 160, 30, 30)
+	ellipse(425, 133, 50, 50)
+	ellipse(520, 160, 30, 30)
+	ellipse(400, 135, 30, 30)
+	ellipse(380, 145, 30, 30)
+	ellipse(430, 200, 40, 40)
+	ellipse(395, 180, 50, 50)
+	ellipse(500, 150, 40, 40);
+	ellipse(465, 170, 30, 30)
+
+
+
 
 }
